@@ -1,0 +1,40 @@
+{
+   "p_contact_persons":[
+      {
+          "contact_person_id" : 61900000000007,
+          "man_id" : 2139018,
+          "contact_person_name" : "prueba prueba",
+          "note1" : "werew",
+          "note2" : "werewrwer",
+          "valid_from" : "",
+          "valid_to" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "contact_person_id" : 61900000000004,
+          "man_id" : 6000037078,
+          "contact_person_name" : "persona 2",
+          "note1" : "comentarios",
+          "note2" : "",
+          "valid_from" : "",
+          "valid_to" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "contact_person_id" : 61900000000005,
+          "man_id" : 6000037078,
+          "contact_person_name" : "Persona de contacto en oficina",
+          "note1" : "telefono: 5567892002",
+          "note2" : "",
+          "valid_from" : "",
+          "valid_to" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

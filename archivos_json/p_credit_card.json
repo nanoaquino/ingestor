@@ -1,0 +1,24 @@
+{
+   "p_credit_card":[
+      {
+          "card_id" : 61700000000005,
+          "man_id" : 6000037078,
+          "cc_type_id" : "MASTER",
+          "billing_address" : "str. 200, Peru",
+          "cardholder_name" : "Prueba Persona",
+          "expiry_month" : 12,
+          "expiry_year" : 2027,
+          "valid_from" : "20-MAY-21",
+          "valid_to" : "",
+          "attr1" : "",
+          "attr2" : "",
+          "attr3" : "",
+          "attr4" : "",
+          "attr5" : "",
+          "preferred_flag" : "Y",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

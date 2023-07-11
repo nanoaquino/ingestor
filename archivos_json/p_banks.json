@@ -1,0 +1,54 @@
+{
+   "p_banks":[
+      {
+          "bank_id" : 6250000561,
+          "man_id" : 6000036495,
+          "bank_code" : "INBSDRLD",
+          "swift_code" : "INBSDRLD",
+          "main_bank_id" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "bank_id" : 6250000541,
+          "man_id" : 6000036413,
+          "bank_code" : "TRSTDRLD",
+          "swift_code" : "TRSTDRLD",
+          "main_bank_id" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "bank_id" : 6250000601,
+          "man_id" : 6000036697,
+          "bank_code" : "UCREDRLD",
+          "swift_code" : "UCREDRLD",
+          "main_bank_id" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "bank_id" : 6250000621,
+          "man_id" : 6000036852,
+          "bank_code" : "JETCDRLD",
+          "swift_code" : "JETCDRLD",
+          "main_bank_id" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "bank_id" : 6250000641,
+          "man_id" : 6000037053,
+          "bank_code" : "BANKCODE1",
+          "swift_code" : "SWIFTCODE1",
+          "main_bank_id" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

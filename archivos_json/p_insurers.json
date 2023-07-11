@@ -1,0 +1,114 @@
+{
+   "p_insurers":[
+      {
+          "insurer_id" : 6040000373,
+          "man_id" : 6000036584,
+          "insurer_type" : "2",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000374,
+          "man_id" : 6000036588,
+          "insurer_type" : "2",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000378,
+          "man_id" : 6000036603,
+          "insurer_type" : "1",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000379,
+          "man_id" : 6000036634,
+          "insurer_type" : "1",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000380,
+          "man_id" : 6000036637,
+          "insurer_type" : "1",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000381,
+          "man_id" : 6000036635,
+          "insurer_type" : "1",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000382,
+          "man_id" : 6000036636,
+          "insurer_type" : "1",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000383,
+          "man_id" : 6000036640,
+          "insurer_type" : "1",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000384,
+          "man_id" : 6000036641,
+          "insurer_type" : "2",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000385,
+          "man_id" : 6000036642,
+          "insurer_type" : "2",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "insurer_id" : 6040000386,
+          "man_id" : 6000036643,
+          "insurer_type" : "2",
+          "current_insurer" : "0",
+          "reg_num" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

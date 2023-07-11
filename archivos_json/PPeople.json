@@ -1,0 +1,168 @@
+{
+  "PPeople": {
+    "addresses": [
+      {
+        "address": "string (required)",
+        "addressType": "string (required) - Value is predefined",
+        "apartmentNumber": "string (optional)",
+        "blockNumber": "string (optional)",
+        "city": "string (optional)",
+        "cityCode": "string (optional)",
+        "country": "string (optional)",
+        "countryCode": "string (optional)",
+        "countryState": "string (optional)",
+        "entranceNumber": "string (optional)",
+        "floorNumber": "string (optional)",
+        "invoiceYn": "string (optional)",
+        "mailYn": "string (optional)",
+        "note": "string (optional)",
+        "personPid": {
+          "egn": "string (optional",
+          "manComp": "int32 (optional)"
+        },
+        "postCode": "string (optional)",
+        "primaryFlag": "string (optional)",
+        "quarterId": "string (optional)",
+        "quarterName": "string (optional)",
+        "regionName": "string (optional)",
+        "stateName": "string (optional)",
+        "stateRegion": "string (optional)",
+        "streetId": "string (optional)",
+        "streetName": "string (optional)",
+        "territoryClassification": "string (optional)",
+        "usageDateFrom": "string (date-time)(optional)",
+        "usageDateTo": "string (date-time)(optional)",
+        "validFrom": "string (date-time)(optional)",
+        "validTo": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "attr1": "string (optional)",
+    "attr2": "string (optional)",
+    "attr3": "string (optional)",
+    "attr4": "string (optional)",
+    "attr5": "string (optional)",
+    "bankAccounts": [
+      {
+        "accountCurrency": "string (optional)",
+        "accountNum": "string (optional)",
+        "accountState": "int32 (optional)",
+        "bankAccId": "int64 (optional)",
+        "bankId": "int64 (optional) - System bankId to which account belongs. Maps to bank_id from p_banks. If not known use the reference to PBanks pBanks",
+        "manId": "number (optional) - System manId of the person to whom the bank account belongs. If not known use the the reference PersonPid personPid",
+        "pBanks": {
+          "bankCode": "string (optional)",
+          "bankId": "int64 (optional)",
+          "bankPid": {
+            "egn": "string (optional)",
+            "manComp": "int32 (optional)"
+          },
+          "mainBankId": "int64 (optional)",
+          "manId": "number (optional)",
+          "swiftCode": "string (optional)"
+        },
+        "PersonPid": {
+          "egn": "string (optional)",
+          "manComp": "int32 (optional)"
+        },
+        "primaryFlag": "string (optional)",
+        "validFrom": "string (date-time)(optional)",
+        "validTo": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "birthDate": "string (date-time) (optional)",
+    "classCode": "string (optional)",
+    "classSubCode": "string (optional)",
+    "compType": "string (optional)",
+    "contactPersons": [
+      {
+        "contactPersonId": "number (optional)",
+        "manId": "number (optional)",
+        "name": "string (optional)",
+        "note1": "string (optional)",
+        "note2": "string (optional)",
+        "validFrom": "string (date-time)(optional)",
+        "validTo": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "contacts": [
+      {
+        "contactId": "int64 (optional)",
+        "ContactType": "string (required) - Contact type. Value is predefined and can be seen using service GET/common/lov/people-contact-types",
+        "details": "string (optional)",
+        "language": "string (optional)",
+        "manId": "number (optional)",
+        "note": "string (optional)",
+        "personPid": {
+          "egn": "string (optional)",
+          "manComp": "int32 (optional)"
+        },
+        "primaryFlag": "string (optional) - Is this primary contact. Possible values: Y|N",
+        "validFrom": "string (date-time)(optional)",
+        "validTo": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "dataSource": "string (optional)",
+    "documents": [{}, {}],
+    "egn": "string (optional) - Unique personal identifier for individuals or BULSTAT Unified Identification Code/Number (UIC) for companies",
+    "errorMessage": {
+      "code": "string (optional)",
+      "hierarchyLevel": "int32 (optional)",
+      "message": "string (optional)",
+      "nestedErrors": [{}, {}],
+      "severity": "string (optional)"
+    },
+    "fiscalPeriod": "number (optional)",
+    "fname": "string (required) - Family (last) name of individual",
+    "gname": "string (required) - Given (first) name of individual",
+    "homeCountry": "string (optional)",
+    "industryCode": "string (optional)",
+    "language": "string (optional)",
+    "manComp": "int32 (required) - Identifies whether person is individual or company. Possible values are: 1- Person 2- Company",
+    "name": "string (optional) - In case of company/legal entity holds the full name of the entity. Required in case of legal entity",
+    "namePrefix": "string (optional)",
+    "nameSuffix": "string (optional)",
+    "nationality": "string (optional)",
+    "notes": "string (optional)",
+    "operation": "string (optional)",
+    "peopleGroups": [
+      {
+        "fromDate": "string (date-time)(optional)",
+        "groupCode": "string (optional)",
+        "groupId": "int64 (optional)",
+        "manId": "number (optional)",
+        "notes": "string (optional)",
+        "toDate": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "questions": [{}, {}],
+    "registrationDate": "string (date-time) (optional)",
+    "relations1": [
+      {
+        "part1Id": "number (optional)",
+        "part2Id": "number (optional)",
+        "relId": "int64 (optional)",
+        "validFrom": "string (date-time)(optional)",
+        "validTo": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "relations2": [
+      {
+        "part1Id": "number (optional)",
+        "part2Id": "number (optional)",
+        "relId": "int64 (optional)",
+        "validFrom": "string (date-time)(optional)",
+        "validTo": "string (date-time)(optional)"
+      },
+      {}
+    ],
+    "sex": "int32 (optional) - Required in case of physical person. Gender: 1 Male 2 Female",
+    "sname": "string (optional) - Surname (middle) name of individual",
+    "subIndustryCode": "string (optional)"
+  }
+}

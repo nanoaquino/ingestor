@@ -1,0 +1,24 @@
+{
+   "p_sales_channel":[
+      {
+          "channel_id" : 8910000104,
+          "man_id" : 2139022,
+          "channel_type" : "1",
+          "channel_subtype" : "1",
+          "main_channel" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "channel_id" : 8910000161,
+          "man_id" : 6000037072,
+          "channel_type" : "1",
+          "channel_subtype" : "2",
+          "main_channel" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

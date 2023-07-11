@@ -1,0 +1,1 @@
+SELECT JSON_OBJECT (insis_people_v10_fk.p_people_groups.group_Id, insis_people_v10_fk.p_people_groups.man_Id, insis_people_v10_fk.p_people_groups.notes, insis_people_v10_fk.p_people_groups.group_Code, insis_people_v10_fk.p_people_groups.from_Date, insis_people_v10_fk.p_people_groups.to_Date) FROM INSIS_PEOPLE_V10_FK.p_people_groups

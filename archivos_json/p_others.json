@@ -1,0 +1,79 @@
+{
+   "p_others":[
+      {
+          "address_id" : 6060000007,
+          "man_id" : 6000036404,
+          "address_type" : 10,
+          "change_date" : "16-JUN-21",
+          "notes" : "",
+          "oop1" : "",
+          "oop2" : "",
+          "oop3" : "",
+          "oop4" : "",
+          "other_subtype" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "address_id" : 6060000003,
+          "man_id" : 2139021,
+          "address_type" : 10,
+          "change_date" : "20-APR-21",
+          "notes" : "",
+          "oop1" : "",
+          "oop2" : "",
+          "oop3" : "",
+          "oop4" : "",
+          "other_subtype" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "address_id" : 6060000004,
+          "man_id" : 6000037026,
+          "address_type" : 303,
+          "change_date" : "20-APR-21",
+          "notes" : "",
+          "oop1" : "",
+          "oop2" : "",
+          "oop3" : "",
+          "oop4" : "",
+          "other_subtype" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "address_id" : 6060000005,
+          "man_id" : 6000018492,
+          "address_type" : 10,
+          "change_date" : "21-APR-21",
+          "notes" : "",
+          "oop1" : "",
+          "oop2" : "",
+          "oop3" : "",
+          "oop4" : "",
+          "other_subtype" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "address_id" : 6060000006,
+          "man_id" : 6000036603,
+          "address_type" : 10,
+          "change_date" : "11-MAY-21",
+          "notes" : "",
+          "oop1" : "",
+          "oop2" : "",
+          "oop3" : "",
+          "oop4" : "",
+          "other_subtype" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

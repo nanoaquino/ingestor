@@ -1,0 +1,74 @@
+{
+   "p_offices":[
+      {
+          "office_id" : 5010000188,
+          "office_no" : "9000",
+          "man_id" : 6000036567,
+          "parent_office" : "",
+          "default_office" : "1",
+          "office_category" : 1,
+          "gl_no" : "9000",
+          "region_id" : "",
+          "country_id" : "D1",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "office_id" : 5010000189,
+          "office_no" : "9100",
+          "man_id" : 6000036605,
+          "parent_office" : 5010000188,
+          "default_office" : "0",
+          "office_category" : 1,
+          "gl_no" : "9100",
+          "region_id" : "",
+          "country_id" : "D1",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "office_id" : 5010000190,
+          "office_no" : "9200",
+          "man_id" : 6000036606,
+          "parent_office" : 5010000188,
+          "default_office" : "0",
+          "office_category" : 1,
+          "gl_no" : "9200",
+          "region_id" : "",
+          "country_id" : "D2",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "office_id" : 5010000191,
+          "office_no" : "9300",
+          "man_id" : 6000036607,
+          "parent_office" : 5010000188,
+          "default_office" : "0",
+          "office_category" : 1,
+          "gl_no" : "9300",
+          "region_id" : "",
+          "country_id" : "PE",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "office_id" : 5010000215,
+          "office_no" : "5010000215",
+          "man_id" : 6000037048,
+          "parent_office" : "",
+          "default_office" : "0",
+          "office_category" : 0,
+          "gl_no" : "5010000215",
+          "region_id" : "",
+          "country_id" : "PE",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

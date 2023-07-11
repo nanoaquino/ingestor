@@ -1,0 +1,21 @@
+{
+   "p_experts":[
+      {
+          "expert_id" : 6050000404,
+          "man_id" : 6000036404,
+          "qualification" : 2,
+          "oexp1" : "",
+          "oexp2" : "",
+          "oexp3" : "",
+          "oexp4" : "",
+          "oexp5" : "",
+          "contract_no" : "",
+          "begin_date" : "",
+          "end_date" : "",
+          "notes" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

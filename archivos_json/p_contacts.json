@@ -1,0 +1,46 @@
+{
+   "p_contacts":[
+      {
+          "contact_id" : 61500000004512,
+          "contact_type" : "OFFICE",
+          "man_id" : 6000036495,
+          "details" : "00422424242254",
+          "note" : "",
+          "primary_flag" : "Y",
+          "valid_from" : "",
+          "valid_to" : "",
+          "language" : "ENGLISH",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "contact_id" : 61500000004526,
+          "contact_type" : "MOBILE2",
+          "man_id" : 6000037078,
+          "details" : "5556783434",
+          "note" : "",
+          "primary_flag" : "N",
+          "valid_from" : "",
+          "valid_to" : "",
+          "language" : "SPANISH",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "contact_id" : 61500000004527,
+          "contact_type" : "EMAIL",
+          "man_id" : 6000037078,
+          "details" : "prueba@gmail.com",
+          "note" : "",
+          "primary_flag" : "N",
+          "valid_from" : "",
+          "valid_to" : "",
+          "language" : "",
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}

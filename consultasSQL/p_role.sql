@@ -1,0 +1,1 @@
+SELECT  JSON_OBJECT (insis_people_v10_fk.p_role.man_Id, insis_people_v10_fk.p_role.role_Id) FROM insis_people_v10_fk.p_role

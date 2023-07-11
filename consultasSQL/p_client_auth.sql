@@ -1,0 +1,1 @@
+SELECT JSON_OBJECT (insis_people_v10_fk.p_client_auth.client_Id, insis_people_v10_fk.p_client_auth.user_Name, insis_people_v10_fk.p_client_auth.passwd, insis_people_v10_fk.p_client_auth.language, insis_people_v10_fk.p_client_auth.ws_Username, insis_people_v10_fk.p_client_auth.ws_Pass) FROM insis_people_v10_fk.p_client_auth

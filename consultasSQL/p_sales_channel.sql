@@ -1,0 +1,1 @@
+SELECT JSON_OBJECT (insis_people_v10_fk.p_sales_channel.channel_Id, insis_people_v10_fk.p_sales_channel.man_Id, insis_people_v10_fk.p_sales_channel.channel_Type, insis_people_v10_fk.p_sales_channel.channel_Subtype, insis_people_v10_fk.p_sales_channel.main_Channel) FROM insis_people_v10_fk.p_sales_channel

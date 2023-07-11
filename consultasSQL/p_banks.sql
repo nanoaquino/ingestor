@@ -1,0 +1,1 @@
+SELECT JSON_OBJECT (insis_people_v10_fk.p_banks.man_Id, insis_people_v10_fk.p_banks.bank_Code, insis_people_v10_fk.p_banks.swift_Code, insis_people_v10_fk.p_banks.main_Bank_Id) FROM insis_people_v10_fk.p_banks

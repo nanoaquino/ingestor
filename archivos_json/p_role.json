@@ -1,0 +1,767 @@
+{
+   "p_role":[
+      {
+          "man_id" : 2139018,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 2139018,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 2139021,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 2139021,
+          "role_id" : 10,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 2139021,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 2139024,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000018492,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000018492,
+          "role_id" : 10,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000018492,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025322,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025323,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025324,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025324,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025325,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025325,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025326,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025425,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025426,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025426,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025452,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025453,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025454,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025454,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000025455,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036404,
+          "role_id" : 3,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036404,
+          "role_id" : 10,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036404,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036413,
+          "role_id" : 23,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036495,
+          "role_id" : 23,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036567,
+          "role_id" : 20,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036568,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036568,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036584,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036588,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036603,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036603,
+          "role_id" : 10,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036603,
+          "role_id" : 21,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036605,
+          "role_id" : 20,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036606,
+          "role_id" : 20,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036607,
+          "role_id" : 20,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036634,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036635,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036636,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036637,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036640,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036641,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036642,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036643,
+          "role_id" : 9,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036668,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036683,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036685,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036697,
+          "role_id" : 23,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036843,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036844,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036845,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036846,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036847,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036848,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036849,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036850,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036851,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036852,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036852,
+          "role_id" : 23,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036853,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036855,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036860,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036861,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036862,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036863,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036864,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036865,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036873,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036874,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036884,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036884,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036885,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036885,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036894,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036895,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036896,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036897,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036907,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036907,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036908,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036908,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036918,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036918,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036919,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036919,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036998,
+          "role_id" : 2,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000036998,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037023,
+          "role_id" : 21,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037026,
+          "role_id" : 303,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037038,
+          "role_id" : 21,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037048,
+          "role_id" : 20,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037051,
+          "role_id" : 2,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037052,
+          "role_id" : 2,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037053,
+          "role_id" : 23,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037058,
+          "role_id" : 21,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037061,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037061,
+          "role_id" : 22,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037072,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037072,
+          "role_id" : 22,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037078,
+          "role_id" : 1,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037078,
+          "role_id" : 2,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037083,
+          "role_id" : 2,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037083,
+          "role_id" : 11,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037095,
+          "role_id" : 21,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        },
+        {
+          "man_id" : 6000037096,
+          "role_id" : 6,
+          "update_date" : "",
+          "insert_date" : "",
+          "batch_id" : ""
+        }
+   ]
+}
